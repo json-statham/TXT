@@ -1,0 +1,4 @@
+1) Name - Rakhim
+2) Age - 25
+3) Animals count - 1 
+4) Desired salary - 100000 CAD
